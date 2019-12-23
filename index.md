@@ -10,8 +10,9 @@ On Windows:
 
 Before you work on your project, activate the corresponding environment:
 
-On linux
-$ . venv/bin/activate
+On linux:
+
+> $venv/bin/activate
 
 
 On Windows Command prompt:
