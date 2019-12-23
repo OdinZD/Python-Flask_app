@@ -28,6 +28,7 @@ Once enviroment is activated, install from requirements.txt
 ** Open project folder in vsCode and run the app.py:
 
 on Windows powershell:
+
 >$env:FLASK_APP="app.py"
 
 >$env:FLASK_DEBUG =1
@@ -36,17 +37,17 @@ on Windows powershell:
 
 On command prompt:
 
-set FLASK_APP=app.py
+>set FLASK_APP=app.py
 
-flask run
+>flask run
 
 On Linux:
 
-export FLASK_APP=app.py
+>export FLASK_APP=app.py
 
-export FLASK_DEBUG=1
+>export FLASK_DEBUG=1
 
-flask run
+>flask run
 
 
 
